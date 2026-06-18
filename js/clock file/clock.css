@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.clock-box{
+    background-color: rgb(88, 88, 238);
+    width: 800px;
+    height:350px;
+    border-radius: 20px;
+    margin-left: 350px;
+    margin-top: 200px;
+}
+.clock-box .time{
+    background-color: black;
+    color: #ffffff;
+    margin-left: 50px;
+    /* margin-top: ; */
+    /* margin-bottom: 20px; */
+    /* margin-right:100px; */
+    padding-top: 50%;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 70px;
+}
