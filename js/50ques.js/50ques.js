@@ -127,6 +127,7 @@ for(i=0; i<=100; i++){
     console.log(sum);
 
 // 18. Combine two strings: let a = 'table'; let b = 'chairs'; using the concatenation operator.
+// ANS)
 let a = 'table';
 let b = 'chairs';
 concatenate = a + b;
@@ -134,7 +135,7 @@ console.log(concatenate)
 // 19. Write a while loop that keeps doubling a number starting from 1 until it exceeds 1000. Log the final number.
 
 // 20. Use the Date object to log today's full date and time.
-
+// ANS)
 // 21. Use the Date object to log the current year, month, and day separately.
 
 // 22. Calculate how many days are left until New Year using the Date object.
